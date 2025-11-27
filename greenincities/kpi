@@ -1,0 +1,12 @@
+id,string:urn:greenincities:KeyPerformanceIndicator:'identification string'
+type,string:KeyPerformanceIndicator   
+name,Property,string:
+description,Property,string:
+calculationPeriod,Property,structured;from:;to:
+category,Property,list:
+kpiValue,Property,structured;measurement:value;
+source,Relationship,string:urn:greenincities:Dataset:'identification string'
+calculatedBy,Relationship,string:urn:greenincities:DataProcessor:'identification string' 
+refAssessmentTool,Relationship,string:urn:greenincities:AssessmentTool:'identification string'
+
+

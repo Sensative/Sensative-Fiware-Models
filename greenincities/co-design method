@@ -1,0 +1,9 @@
+id,string:urn:greenincities:CoDesignMethod:'identification string'
+type,string:CoDesignMethod
+name,Property,string:
+description,Property,string:
+designPeriod,Property,structured;from:;to:
+targetOutcome,Property,list:
+refAssessmentTool,Relationship,list:urn:greenincities:AssessmentTool:'identification string'
+refLLActor,Relationship,list:urn:greenincities:LLActor:'identification string'
+refInterventionPlan,Relationship,string:urn:greenincities:InterventionPlan:'identification string'

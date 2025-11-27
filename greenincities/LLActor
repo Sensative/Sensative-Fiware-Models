@@ -1,0 +1,6 @@
+id,string:urn:greenincities:LLActor:'identification string'
+type,string:LLActor
+name,Property,string:
+description,Property,string:
+refProjectPartner,Relationship,list:urn:greenincities:ProjectPartner:'identification string'
+refExternalStakeholder,Relationship,list:urn:greenincities:ExternalStakeholder:'identification string'

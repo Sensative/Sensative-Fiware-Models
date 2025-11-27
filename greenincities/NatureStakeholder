@@ -1,0 +1,5 @@
+id,string:urn:greenincities:NatureStakeholder:'identification string'
+type,string:NatureStakeholder
+name,Property,string:
+description,Property,string:
+source,Relationship,string:urn:greenincities:Area:'identification string'

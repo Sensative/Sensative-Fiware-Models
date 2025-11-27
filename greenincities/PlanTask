@@ -1,0 +1,6 @@
+id,string:urn:greenincities:PlanTask:'identification string'
+type,string:PlanTask
+name,Property,string:
+description,Property,string:
+comprises,Relationship,string:urn:greenincities:InterventionPlan:'identification string'
+refCoEvaluationMethod,Relationship,list:urn:greenincities:CoEvaluationMethod:'identification string'

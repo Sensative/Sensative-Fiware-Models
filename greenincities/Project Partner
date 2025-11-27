@@ -1,0 +1,4 @@
+id,string:urn:greenincities:ProjectPartner:'identification string'
+type,string:ProjectPartner
+name,Property,string:
+description,Property,string:
