@@ -1,0 +1,11 @@
+id,string:urn:greenincities:AssessmentTool:'identification string' 
+type,string:AssessmentTool 
+name,Property,string:
+description,Property,string:
+controlledProperty,Property,list:
+inputSources,Property,list:
+location,GeoProperty,structured;type:;coordinates:
+category,Property,list:
+owner,Relationship,string:urn:greenincities:Stakeholder:'identification string' 
+refQualAssessmentTool,Relationship,string:urn:greenincities:QualAssessmentTool:'identification string'
+refQuanAssessmentTool,Relationship,string:urn:greenincities:QuanAssessmentTool:'identification string'

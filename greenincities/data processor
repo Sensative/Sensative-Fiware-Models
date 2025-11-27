@@ -1,0 +1,8 @@
+id,string:urn:greenincities:DataProcessor:'identification string'  
+type,string:DataProcessor  
+name,Property,string:
+description,Property,string:
+category,Property,list:
+owner,Relationship,string:urn:greenincities:Stakeholder:'identification string'
+refAssessmentTool,Relationship,list:urn:greenincities:AssessmentTool:'identification string'
+refDataController,Relationship,string:urn:greenincities:DataController:'identification string'

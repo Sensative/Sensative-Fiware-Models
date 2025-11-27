@@ -1,0 +1,5 @@
+id,string:urn:greenincities:ExternalStakeholder:'identification string'
+type,string:ExternalStakeholder
+name,Property,string:
+description,Property,string:
+refNatureStakeholder,Relationship,string:urn:greenincities:NatureStakeholder:'identification string'

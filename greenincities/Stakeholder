@@ -1,0 +1,6 @@
+id,string:urn:greenincities:Stakeholder:'identification string'
+type,string:Stakeholder
+name,Property,string:
+description,Property,string:
+refProjectPartner,Relationship,string:urn:greenincities:ProjectPartner:'identification string'
+refExternalStakeholder,Relationship,string:urn:greenincities:ExternalStakeholder:'identification string'

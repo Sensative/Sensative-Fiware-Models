@@ -1,0 +1,6 @@
+id,string:urn:greenincities:DataController:'identification string'
+type,string:DataController
+name,Property,string:
+description,Property,string:
+rights,Property,list:
+owner,Relationship,string:urn:greenincities:Stakeholder:'identification string'

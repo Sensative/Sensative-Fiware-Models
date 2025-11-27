@@ -1,0 +1,15 @@
+id,string:urn:greenincities:Dataset:'identification string'  
+type,string:Dataset  
+name,Property,string:
+description,Property,string:
+storageLocation,Property,string:
+dataSize,Property,string:
+openData,Property,boolean:
+workPackage,Property,string:
+format,Property,list:
+timePeriod,Property,structured;from:;to:
+isAccessibleForFree,Property,boolean:
+owner,Relationship,string:urn:greenincities:Stakeholder:'identification string'
+refAssessmentTool,Relationship,string:urn:greenincities:AssessmentTool:'identification string'
+refDataProcessor,Relationship,string:urn:greenincities:DataProcessor:'identification string'
+refDataController,Relationship,string:urn:greenincities:DataController:'identification string'

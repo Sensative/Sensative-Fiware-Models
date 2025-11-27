@@ -1,0 +1,6 @@
+id,string:urn:greenincities:QualAssessmentTool:'identification string'
+type,string:QualAssessmentTool
+name,Property,string:
+description,Property,string:
+controlledProperty,Property,list:
+category,Property,list:

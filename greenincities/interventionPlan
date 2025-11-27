@@ -1,0 +1,5 @@
+id,string:urn:greenincities:InterventionPlan:'identification string'
+type,string:InterventionPlan
+name,Property,string:
+description,Property,string:
+defines,Relationship,string:urn:greenincities:Intervention:'identification string'

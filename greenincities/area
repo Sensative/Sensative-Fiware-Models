@@ -1,0 +1,6 @@
+id,string:urn:greenincities:Area:'identification string'
+type,string:Area 
+name,Property,string:
+category,Property,list:
+location,GeoProperty,structured;type:;coordinates:
+address,Property,structured;type:PostalAddress;addressCountry:;addressLocality:;streetAddress:

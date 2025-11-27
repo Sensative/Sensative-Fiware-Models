@@ -1,0 +1,10 @@
+id,string:urn:greenincities:CoEvaluationMethod:'identification string'  
+type,string:CoEvaluationMethod  
+name,Property,string:
+description,Property,string:
+evaluationPeriod,Property,structured;from:;to:
+targetOutcome,Property,list:
+requires,Relationship,list:urn:greenincities:KPI:'identification string'
+refLLActor,Relationship,list:urn:greenincities:LLActor:'identification string'
+refExAnte,Relationship,string:urn:greenincities:ExAnte:'identification string'
+refExPos,Relationship,string:urn:greenincities:ExPost:'identification string'

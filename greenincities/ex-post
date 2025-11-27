@@ -1,0 +1,7 @@
+id,string:urn:greenincities:ExPost:'identification string'   
+type,string:ExPost  
+name,Property,string:
+description,Property,string:
+timePeriod,Property,structured;from:;to:
+refAssessmentTool,Relationship,list:urn:greenincities:AssessmentTool:'identification string'
+
